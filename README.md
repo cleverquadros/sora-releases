@@ -12,7 +12,7 @@ Instaladores para Windows dos apps da Sora Works. Todos são gratuitos, sem anú
 
 1. Abra a página [**Releases**](https://github.com/cleverquadros/sora-releases/releases).
 2. Procure o app pelo nome e abra a versão mais recente dele.
-3. Em **Assets**, baixe o arquivo `.exe` (instalador) ou o `.msi`.
+3. Em **Assets**, baixe o instalador `.exe`.
 
 Funciona no Windows 10 e 11, 64 bits.
 
@@ -33,5 +33,5 @@ Os arquivos são gerados e enviados automaticamente pelo processo de build de ca
 
 Windows installers for the Sora Works apps. All of them are free, with no ads and no account.
 Open [**Releases**](https://github.com/cleverquadros/sora-releases/releases), find the app by name
-and download the `.exe` or `.msi` file under **Assets**. This repository only hosts the installers;
+and download the `.exe` installer under **Assets**. This repository only hosts the installers;
 the source code isn't public.
